@@ -65,5 +65,6 @@ historical inspiration with VR interactivity.
 - *Funerary Lion* and *Praying Boy* statues reconstructed using photogrammetry from real artifacts in Berlin.  
 - Additional statues and Roman assets sourced from public online resources.  
 - Free community assets and AI-assisted modeling tools.
+- Music: **"From Olympus"** from *Hades Original Soundtrack*, composed by Darren Korb, used for educational/non-commercial purposes. 
 - Historical descriptions for the UI panels were generated with the assistance of AI (ChatGPT)  
   and are intended for narrative purposes only. They may not fully reflect historical accuracy.
